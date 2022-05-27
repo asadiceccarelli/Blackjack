@@ -7,6 +7,7 @@ Features to add:
 - Blackjack message if 21 dealt on first two cards
 - 5 card trick message
 - 1 second time delay on each dealt card
+- Score / wager feature
 
 Features to remove:
 - Player score count
